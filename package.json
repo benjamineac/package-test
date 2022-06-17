@@ -1,4 +1,11 @@
 {
-  "name": "@benjamineac/sanitytest",
-  "version": "1.0.0"
+  "name": "@benjamineac/package-test",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjamineac/package-test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/benjamineac"
   }
+}
